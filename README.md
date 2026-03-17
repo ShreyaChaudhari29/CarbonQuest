@@ -1,4 +1,5 @@
 # 🌱 AI Sustainability Assistant
+CarbonQuest
 
 AI Sustainability Assistant is a web application that helps users track their **carbon footprint** and adopt **eco-friendly habits**.  
 The system analyzes lifestyle data such as transportation, electricity usage, and consumption patterns to estimate carbon emissions and provide personalized sustainability recommendations.
